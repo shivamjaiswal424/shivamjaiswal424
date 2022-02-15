@@ -1,4 +1,4 @@
-### Hi there, I am Shivam Jaiswal a competetive programmer.👋
+### Hi there, I am Shivam Jaiswal a competitive programmer.👋
 
 <!--
 **shivamjaiswal424/shivamjaiswal424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
